@@ -4,8 +4,8 @@
 
 <h1 align="center">¿Todo bien?</h1>
 
-<h3 align="center">Estudiante de Ingeneria de Sistema (novato)</h3>
-<p align="center">Quiero especializarme en ciberseguridad, Inteligencia Artificial y Computación cuantica.</p>
+<h3 align="center">Soy estudiante de Ingeneria de Sistema (Novato)</h3>
+<p align="center">Quiero especializarme en Ciberseguridad, Inteligencia Artificial y Computación cuantica.</p>
 
-<h4 align="center">Más sobre mi porximamente.</h4>
+<h4 align="center">Más sobre mi porximamente...</h4>
 
